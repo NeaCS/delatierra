@@ -1,0 +1,18 @@
+
+
+.not-found-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #F5EDE3; /* Color tierra claro */
+    color: #4E402D; /* Color tierra oscuro */
+  }
+  
+  .not-found-heading {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .not-found-paragraph {
+    font-size: 1.2em;
+  }
+  

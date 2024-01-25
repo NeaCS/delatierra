@@ -1,0 +1,17 @@
+/* Añade estilos según tus preferencias */
+.hero-carousel {
+    margin: 20px;
+  }
+  
+  .carousel-slide {
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .carousel-slide img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  /* Puedes añadir más estilos según tu diseño */
+  

@@ -1,0 +1,16 @@
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #F5EDE3; /* Color tierra claro */
+    color: #4E402D; /* Color tierra oscuro */
+  }
+  
+  .heading {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .paragraph {
+    font-size: 1.2em;
+  }

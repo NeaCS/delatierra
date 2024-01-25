@@ -1,0 +1,11 @@
+.footer-container {
+    background-color: #d2b48c; /* Color tierra, puedes ajustar este valor */
+    padding: 20px;
+    color: #fff; /* Texto en color blanco para contrastar */
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
