@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="libreria-navbar">
       <div className="libreria-navbar_container-logo">
       <NavLink to="/">
-          <img src="../assets/images/logo.jpg" alt="logo" />
+          <img src="" alt="logo" />
         </NavLink>
       </div>
 
