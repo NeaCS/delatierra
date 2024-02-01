@@ -1,4 +1,5 @@
 // src/components/Home.js
+
 import "../assets/styles/Home.css";
 import Carrousel from "../components/Home/Carrousel";
 
@@ -7,9 +8,10 @@ const Home = () => {
     <div className="container">
       <h1 className="heading">Bienvenido a De la Tierra a la Olla</h1>
       <p className="paragraph">
-        Explora nuestras deliciosas recetas tradicionales chilenas y disfruta de la auténtica cocina.
+        Explora nuestras deliciosas recetas tradicionales chilenas y disfruta de
+        la auténtica cocina.
       </p>
-      <Carrousel/>
+      <Carrousel />
     </div>
   );
 };

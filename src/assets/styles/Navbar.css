@@ -15,17 +15,13 @@ margin-right: 1rem;
 .libreria-navbar_nav-links {
   list-style-type: none;
   display: flex;
-  align-items: center;
+padding: 2%;
 }
 
 .libreria-navbar_nav-links li a {
   margin-right: 1rem;
   text-decoration: none; /* Elimina el subrayado */
   color: inherit; /* Hereda el color del texto de su contenedor */
-}
-
-.libreria-navbar_nav-links li {
-  margin: 0 0.5rem 0 0.5rem; 
 }
 
 .libreria-navbar_container-logo {
@@ -35,9 +31,15 @@ align-items: center;
    width: 30%
   }
 
+
   .cart-icon-container {
     position: relative;
     display: inline-block;
+  }
+
+  .libreria-navbar_nav-links ul {
+    padding: 0; 
+    margin: 0;
   }
   
   .badge {

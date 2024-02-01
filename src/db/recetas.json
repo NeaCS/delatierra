@@ -1,0 +1,109 @@
+{
+  "recetas_chilenas": [
+    {
+      "id": 0,
+      "nombre": "Empanadas de Pino",
+      "ingredientes": ["Masa para empanadas", "Carne de vacuno picada", "Cebolla", "Huevo", "Aceitunas", "Pasas", "Comino", "Pimentón"],
+      "instrucciones": "Preparar la masa y el relleno por separado. Rellenar las empanadas y hornear hasta que estén doradas.",
+      "imagen": "https://ejemplo.com/imagenes/empanadas.jpg"
+    },
+    {
+      "id": 1,
+      "nombre": "Cazuela",
+      "ingredientes": ["Pollo", "Zanahoria", "Papa", "Choclo", "Arroz", "Cilantro", "Ajo"],
+      "instrucciones": "Cocinar los ingredientes en un caldo hasta que estén tiernos. Servir caliente.",
+      "imagen": "https://ejemplo.com/imagenes/cazuela.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Pastel de Choclo",
+      "ingredientes": ["Choclo", "Carne molida", "Cebolla", "Huevo", "Aceitunas", "Azúcar"],
+      "instrucciones": "Preparar una mezcla de choclo y otra de carne. Alternar capas en un molde y hornear hasta que esté dorado.",
+      "imagen": "https://ejemplo.com/imagenes/pastel_choclo.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Curanto",
+      "ingredientes": ["Mariscos", "Carnes", "Papas", "Chapalele", "Milcao", "Nalca"],
+      "instrucciones": "Cocinar mariscos y carnes con papas en un hoyo en la tierra. Acompañar con chapalele, milcao y nalca.",
+      "imagen": "https://ejemplo.com/imagenes/curanto.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Porotos Granados",
+      "ingredientes": ["Porotos", "Maíz", "Zapallo", "Cebolla", "Ajo", "Albahaca", "Tomate"],
+      "instrucciones": "Cocinar porotos y maíz con verduras. Añadir zapallo al final y sazonar con albahaca y ajo.",
+      "imagen": "https://ejemplo.com/imagenes/porotos_granados.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Sopaipillas",
+      "ingredientes": ["Zapallo", "Harina", "Aceite", "Azúcar", "Sal"],
+      "instrucciones": "Mezclar harina con zapallo, formar discos y freír en aceite caliente. Espolvorear con azúcar.",
+      "imagen": "https://ejemplo.com/imagenes/sopaipillas.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Chorrillana",
+      "ingredientes": ["Papas fritas", "Carne de res", "Cebolla", "Huevo", "Aceite", "Sal"],
+      "instrucciones": "Freír papas y carne, saltear cebolla y huevos. Servir todo junto y añadir sal al gusto.",
+      "imagen": "https://ejemplo.com/imagenes/chorrillana.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Asado a la Parrilla",
+      "ingredientes": ["Carne de res", "Sal", "Pimienta", "Ajo", "Limón", "Aceite"],
+      "instrucciones": "Marinar la carne con sal, pimienta, ajo, limón y aceite. Asar a la parrilla hasta que esté en el punto deseado.",
+      "imagen": "https://ejemplo.com/imagenes/asado_parrilla.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Humitas",
+      "ingredientes": ["Choclo", "Manteca", "Hoja de maíz", "Sal"],
+      "instrucciones": "Preparar una mezcla de choclo y manteca. Envolver en hojas de maíz y cocinar al vapor.",
+      "imagen": "https://ejemplo.com/imagenes/humitas.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Merluza a la Vinagreta",
+      "ingredientes": ["Merluza", "Cebolla", "Tomate", "Cilantro", "Vinagre", "Aceite", "Sal", "Pimienta"],
+      "instrucciones": "Cocinar la merluza y servir con una vinagreta de cebolla, tomate, cilantro, vinagre, aceite, sal y pimienta.",
+      "imagen": "https://ejemplo.com/imagenes/merluza_vinagreta.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Pastel de Jaiba",
+      "ingredientes": ["Jaiba", "Cebolla", "Huevo", "Pan rallado", "Leche", "Queso"],
+      "instrucciones": "Cocinar jaiba con cebolla, mezclar con huevo, pan rallado y leche. Hornear con queso hasta que esté dorado.",
+      "imagen": "https://ejemplo.com/imagenes/pastel_jaiba.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Ensalada a la Chilena",
+      "ingredientes": ["Tomate", "Cebolla", "Cilantro", "Aceite de oliva", "Vinagre", "Sal", "Pimienta"],
+      "instrucciones": "Cortar tomate, cebolla y cilantro. Aliñar con aceite de oliva, vinagre, sal y pimienta.",
+      "imagen": "https://ejemplo.com/imagenes/ensalada_chilena.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Calzones Rotos",
+      "ingredientes": ["Harina", "Huevo", "Azúcar", "Leche", "Sal", "Aceite"],
+      "instrucciones": "Mezclar harina, huevo, azúcar, leche y sal. Formar discos y freír en aceite caliente. Espolvorear con azúcar.",
+      "imagen": "https://ejemplo.com/imagenes/calzones_rotos.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Arrollado Huaso",
+      "ingredientes": ["Carne de cerdo", "Cebolla", "Ajo", "Ají verde", "Pimentón", "Comino", "Orégano", "Vino tinto"],
+      "instrucciones": "Marinar la carne con cebolla, ajo, ají verde, pimentón, comino, orégano y vino tinto. Asar y enrollar.",
+      "imagen": "https://ejemplo.com/imagenes/arrollado_huaso.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Paila Marina",
+      "ingredientes": ["Mariscos", "Pescado", "Cebolla", "Ajo", "Tomate", "Vino blanco", "Cilantro", "Pimentón"],
+      "instrucciones": "Cocinar mariscos, pescado y verduras en un caldo con cebolla, ajo, tomate, vino blanco, cilantro y pimentón.",
+      "imagen": "https://ejemplo.com/imagenes/paila_marina.jpg"
+    }
+  ]
+}
