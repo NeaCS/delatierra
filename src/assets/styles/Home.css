@@ -1,5 +1,6 @@
 
 .container {
+  height: 100%;
     text-align: center;
     padding: 20px;
     background-color: #F5EDE3; /* Color tierra claro */

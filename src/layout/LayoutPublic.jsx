@@ -6,9 +6,10 @@ import Footer from "../components/Footer";
 const LayoutPublic = () => {
   return (
     <>
-      <div>
+      <div className="divApp">
         <Navbar />
         <Outlet />
+        
       </div>{" "}
       <Footer />
     </>
