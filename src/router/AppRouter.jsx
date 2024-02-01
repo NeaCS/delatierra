@@ -8,6 +8,7 @@ import NotFound from "../pages/NotFound";
 import Home from "../pages/Home";
 import Recetas from "../pages/Recetas";
 import Contacto from "../pages/Contacto";
+import VerDetalles from "../pages/VerDetalles";
 
 
 
@@ -28,6 +29,10 @@ export const router = createBrowserRouter([
       {
         path: "/contacto",
         element: <Contacto />,
+      },
+      {
+        path: "/recetas/:id",
+        element: <VerDetalles />,
       },
     ],
   },

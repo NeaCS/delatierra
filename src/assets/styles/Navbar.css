@@ -31,13 +31,15 @@ align-items: center;
    width: 30%
   }
 
-  .libreria-navbar p{
-   margin-bottom: 0;
-      }
 
   .cart-icon-container {
     position: relative;
     display: inline-block;
+  }
+
+  .libreria-navbar_nav-links ul {
+    padding: 0; 
+    margin: 0;
   }
   
   .badge {

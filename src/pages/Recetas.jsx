@@ -2,15 +2,21 @@ import { useEffect, useState } from "react";
 import recetas from "../db/recetas.json";
 import { Button, Card } from "react-bootstrap";
 import "../assets/styles/Recetas.css";
+import { useNavigate } from "react-router-dom";
 
 const Recetas = () => {
   const [dataRecetas, setDataRecetas] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
     setDataRecetas(recetas.recetas_chilenas);
   }, [recetas]);
 
   console.log("recetas", dataRecetas);
+
+  const handleClick = (receta) => {
+    navigate(`/recetas/${receta.id}`);
+  }
   return (
     <div className="recetas-container">
       <div>
@@ -23,8 +29,8 @@ const Recetas = () => {
             <Card.Body>
               <Card.Title>{receta.nombre}</Card.Title>
               <Card.Text>{receta.instrucciones}</Card.Text>
-              <Button variant="success">Ver Detalles</Button>
             </Card.Body>
+              <Button variant="success" onClick={() => handleClick(receta)}>Ver Detalles</Button>
           </Card>
         ))}
       </div>
